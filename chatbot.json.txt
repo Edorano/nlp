@@ -2,7 +2,7 @@
     "intents": [{
         "name": "HelloIntent",
         "samples": ["Ciao", "Salve", "hei", "Ci sei ?", "Buongiorno", "Buonasera"],
-        "responses": ["Ciao, sono MiaoBot, l'assistente virtuale di Miao Mobile, come posso aiutarti ?", "Buongiorno, questa è l'assistenza clienti di Miao Mobile, come posso esserti utile ?"]
+        "responses": ["Ciao", "Ciao, come posso aiutarti?", "Buongiorno", "Ciao, è bello vederti"]
     },
     {
         "name": "GoodbyeIntent",
@@ -12,12 +12,12 @@
     {
         "name": "ThanksIntent",
         "samples": ["Grazie", "Ti ringrazio", "Fantastico"],
-        "responses": ["E' stato un piacere, se hai bisogno di altro non esitare a chiedere", "E' stato un piacere aiutarti", "Figurati, è il mio lavoro :)"]
+        "responses": ["E' stato un piacere, se hai bisogno di altro non esitare a chiedere", "E' stato un piacere aiutarti", "Figurati, è il mio lavoro :)", "Grazie"]
     },
     {
         "name": "WhoIntent",
         "samples": ["Chi sei tu ?", "Come ti chiami ?","Con chi sto parlando ?"],
-        "responses": ["Io sono MiaoBot, l'assistente virtuale di Miao Mobile, sono qui 24 ore su 24 per assisterti", "Mi chiamo MiaoBot, sono un'intelligenza artificiale sviluppata da Miao Mobile per assistere ogni cliente"]
+        "responses": ["Sono il tuo assistente, puoi chiedermi quello che vuoi e ti sarò di aiuto"]
     },
     {
         "name": "CreditIntent",
