@@ -5,7 +5,7 @@
         "responses": ["Ciao", "Ciao, come posso aiutarti?", "Buongiorno", "Ciao, è bello vederti. Come posso aiutarti", "Buongiorno, sono qui per aiutarti. Fammi sapere di cosa hai bisogno"]
     },
     {
-        "name": "Saluti2",
+        "name": "Addio",
         "samples": ["Addio", "Arrivederci", "Buona giornata", "A presto", "Ci vediamo"],
         "responses": ["Grazie per averci contattato ! Buona giornata", "Per qualsiasi cosa ci trovi sempre qui, buona giornata !","Buona giornata !","Spero di esserti stato utile"]
     },
