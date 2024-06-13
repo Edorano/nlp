@@ -5,14 +5,14 @@
         "responses": ["Ciao", "Ciao, come posso aiutarti?", "Buongiorno", "Ciao, è bello vederti. Come posso aiutarti", "Buongiorno, sono qui per aiutarti. Fammi sapere di cosa hai bisogno"]
     },
     {
-        "name": "GoodbyeIntent",
+        "name": "Saluti2",
         "samples": ["Addio", "Arrivederci", "Buona giornata", "A presto", "Ci vediamo"],
-        "responses": ["Grazie per averci contattato ! Buona giornata", "Per qualsiasi cosa ci trovi sempre qui, buona giornata !","Buona giornata !"]
+        "responses": ["Grazie per averci contattato ! Buona giornata", "Per qualsiasi cosa ci trovi sempre qui, buona giornata !","Buona giornata !","Spero di esserti stato utile",]
     },
     {
-        "name": "ThanksIntent",
-        "samples": ["Grazie", "Ti ringrazio", "Fantastico"],
-        "responses": ["E' stato un piacere, se hai bisogno di altro non esitare a chiedere", "E' stato un piacere aiutarti", "Figurati, è il mio lavoro :)", "Grazie"]
+        "name": "Ringraziamenti",
+        "samples": ["Grazie", "Ti ringrazio", "Fantastico","Wow","Sei stato utile","Grazie mille","Grazie di cuore","Ti sono davvero grato","Non sò come ringraziarti","Grazie infinite"],
+        "responses": ["E' stato un piacere, se hai bisogno di altro non esitare a chiedere", "E' stato un piacere aiutarti", "Figurati, è il mio lavoro :)", "Grazie","Prego","Non c'è di che","Figurati!","Di niente!","È stato un piacere!","Sempre a disposizione!","Contattami se hai bisogno!","Sono qui per te!"]
     },
     {
         "name": "WhoIntent",
