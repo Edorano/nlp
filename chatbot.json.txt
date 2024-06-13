@@ -1,8 +1,8 @@
 {
     "intents": [{
-        "name": "HelloIntent",
+        "name": "Saluti",
         "samples": ["Ciao", "Salve", "hei", "Ci sei ?", "Buongiorno", "Buonasera"],
-        "responses": ["Ciao", "Ciao, come posso aiutarti?", "Buongiorno", "Ciao, è bello vederti"]
+        "responses": ["Ciao", "Ciao, come posso aiutarti?", "Buongiorno", "Ciao, è bello vederti. Come posso aiutarti", "Buongiorno, sono qui per aiutarti. Fammi sapere di cosa hai bisogno"]
     },
     {
         "name": "GoodbyeIntent",
