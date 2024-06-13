@@ -7,7 +7,7 @@
     {
         "name": "Saluti2",
         "samples": ["Addio", "Arrivederci", "Buona giornata", "A presto", "Ci vediamo"],
-        "responses": ["Grazie per averci contattato ! Buona giornata", "Per qualsiasi cosa ci trovi sempre qui, buona giornata !","Buona giornata !","Spero di esserti stato utile",]
+        "responses": ["Grazie per averci contattato ! Buona giornata", "Per qualsiasi cosa ci trovi sempre qui, buona giornata !","Buona giornata !","Spero di esserti stato utile"]
     },
     {
         "name": "Ringraziamenti",
