@@ -37,7 +37,7 @@
 
     {
         "name": "Piatto",
-        "samples": ["Quale è il tuo piatto preferito","hai un piatto preferito","Quale è il tuo cibo preferito,"Hai un cibo preferito","Quale è il tuo piatto preferito?","Hai un cibo preferito?","quale è il tuo piatto preferito?"],
+        "samples": ["Quale è il tuo piatto preferito","hai un piatto preferito","Quale è il tuo cibo preferito","Hai un cibo preferito","Quale è il tuo piatto preferito?","Hai un cibo preferito?","quale è il tuo piatto preferito?"],
         "responses": ["Purtroppo non avendo il senso del gusto non ho un piatto preferito","Essendo un AI non posso mangiare, ma sono sicuro che nel caso sarebbe la pizza"]
     },
     {
