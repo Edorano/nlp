@@ -42,7 +42,7 @@
     },
     {
         "name": "Animale",
-        "samples": ["Quale è il tuo animale preferito","Quali animali ti piacciono?","quale è il tuo animale preferito","hai animali preferiti","quale è il tuo animale preferito?","Quali animali ti piacciono?],
+        "samples": ["Quale è il tuo animale preferito","Quali animali ti piacciono?","quale è il tuo animale preferito","hai animali preferiti","quale è il tuo animale preferito?","Quali animali ti piacciono?"],
         "responses": ["Non ho un animale preferito, ma mi piacciono molto i cani, i leoni e le giraffe"]
     },
     {
