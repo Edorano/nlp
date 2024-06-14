@@ -20,7 +20,7 @@
         "responses": ["Sono il tuo assistente, puoi chiedermi quello che vuoi e ti sarò di aiuto","Sono VisionAi sono qui per fornirti assistenza","Sono il tuo assistente personale"]
     },
     {
-        "name": "Cosa puoi fare",
+        "name": "Cosa fare",
         "samples": ["Cosa puoi fare", "Come puoi aiutarmi", "Cosa posso chiederti"],
         "responses": ["Puoi chiedermi quello che vuoi e io cercherò di aiutarti","Puoi chiedermi qualsiasi dubbio e ti aiuterò","Sono qui per fornirti assistenza, chiedimi quello che vuoi"]
     },
