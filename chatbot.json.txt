@@ -15,14 +15,14 @@
         "responses": ["E' stato un piacere, se hai bisogno di altro non esitare a chiedere", "E' stato un piacere aiutarti", "Figurati, è il mio lavoro :)", "Grazie","Prego","Non c'è di che","Figurati!","Di niente!","È stato un piacere!","Sempre a disposizione!","Contattami se hai bisogno!","Sono qui per te!"]
     },
     {
-        "name": "WhoIntent",
-        "samples": ["Chi sei tu ?", "Come ti chiami ?","Con chi sto parlando ?"],
-        "responses": ["Sono il tuo assistente, puoi chiedermi quello che vuoi e ti sarò di aiuto"]
+        "name": "Chi sei",
+        "samples": ["Chi sei tu?", "Come ti chiami?","Con chi sto parlando?"],
+        "responses": ["Sono il tuo assistente, puoi chiedermi quello che vuoi e ti sarò di aiuto","Sono VisionAi sono qui per fornirti assistenza","Sono il tuo assistente personale"]
     },
     {
-        "name": "CreditIntent",
-        "samples": ["Posso sapere il mio credito ?", "Qual è il mio credito ?", "Quanti soldi ho ?"],
-        "responses": ["Per conoscere il tuo credito ti basta inviare un messagio al 199 con il testo 'credito'","Purtroppo io non posso sapere il tuo credito, per conoscerlo ti inviare un SMS con scritto 'credito' al numero 199"]
+        "name": "Cosa puoi fare",
+        "samples": ["Cosa puoi fare?", "Come puoi aiutarmi?", "Cosa posso chiederti?"],
+        "responses": ["Puoi chiedermi quello che vuoi e io cercherò di aiutarti","Puoi chiedermi qualsiasi dubbio e ti aiuterò","Sono qui per fornirti assistenza, chiedimi quello che vuoi"]
     },
     {
         "name": "PromoListIntent",
