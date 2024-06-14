@@ -21,7 +21,7 @@
     },
     {
         "name": "Cosa puoi fare",
-        "samples": ["Cosa puoi fare", "Come puoi aiutarmi", "Cosa posso chiederti","Cosa sai fare"],
+        "samples": ["Cosa puoi fare", "Come puoi aiutarmi", "Cosa posso chiederti", "Cosa sai fare"],
         "responses": ["Puoi chiedermi quello che vuoi e io cercherò di aiutarti","Puoi chiedermi qualsiasi dubbio e ti aiuterò","Sono qui per fornirti assistenza, chiedimi quello che vuoi"]
     },
     {
