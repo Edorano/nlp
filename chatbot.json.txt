@@ -11,12 +11,12 @@
     },
     {
         "name": "Ringraziamenti",
-        "samples": ["Grazie", "Ti ringrazio", "Fantastico","Wow","Sei stato utile","Grazie mille","Grazie di cuore","Ti sono davvero grato","Non sò come ringraziarti","Grazie infinite"],
+        "samples": ["Grazie", "Ti ringrazio", "Fantastico","Wow","Sei stato utile","Grazie mille","Grazie di cuore","Ti sono davvero grato","Non sò come ringraziarti","Grazie infinite","grazie,"grazie mille","tante grazie","grazie","grazie mille,"grazie","molte grazie","Grazie"],
         "responses": ["E' stato un piacere, se hai bisogno di altro non esitare a chiedere", "E' stato un piacere aiutarti", "Figurati, è il mio lavoro :)", "Grazie","Prego","Non c'è di che","Figurati!","Di niente!","È stato un piacere!","Sempre a disposizione!","Contattami se hai bisogno!","Sono qui per te!"]
     },
     {
         "name": "Chi sei",
-        "samples": ["Chi sei tu", "Come ti chiami","Con chi sto parlando","chi sei","chi sei?","chi sei","Chi sei?","chi sei?"],
+        "samples": ["Chi sei tu", "Come ti chiami","Con chi sto parlando","chi sei","chi sei?","chi sei","Chi sei?","chi sei?","Chi sei","Chi sei tu?","chi sei?","chi sei tu?",Chi sei?",Chi sei tu",chi sei?","chi sei tu?"],
         "responses": ["Sono il tuo assistente, puoi chiedermi quello che vuoi e ti sarò di aiuto","Sono VisionAi sono qui per fornirti assistenza","Sono il tuo assistente personale"]
     },
     {
@@ -46,14 +46,14 @@
         "responses": ["Non ho un animale preferito, ma mi piacciono molto i cani, i leoni e le giraffe"]
     },
     {
-        "name": "GreetingIntent",
-        "samples": ["Come stai ?","Come va ?","Come ti senti ?"],
-        "responses": ["Mi sento al settimo Cloud ! grazie per avermelo chiesto :)"]
+        "name": "Stare",
+        "samples": ["Come stai ?","Come va ?","Come ti senti ?","Come stai","Come va","Oggi come stai?,"Come ti senti","Ti senti bene?","Come stai?","Come va?"],
+        "responses": ["Funziono perfettamente, e tu?","In forma e operativo! Cosa posso fare per te?","Sto come un pesce nell'acqua! Prontissimo per una nuotata di informazioni."]
     },
     {
-        "name": "WhatIntent",
-        "samples": ["Cosa puoi fare ?","Come puoi aiutarmi ?"],
-        "responses": ["Posso aiutarti a conoscere le ultime offerte di Miao Mobile oppure con qualche problema che stai riscontrando, basta chiedere :)"]
+        "name": "Genere",
+        "samples": ["Sei maschio o donna?","Sei maschio?","Sei donna?","sei un maschio o una donna?","di che genere sei?","Quale è il tuo genere?","Sei maschio o donna?","Sei maschio?","Sei una donna?"],
+        "responses": ["E' un pò difficile definire il mio sesso. So solo che per il mio produttore sono un Uomo","Credo uomo, ma non lo so con esattezza","E' una cosa difficile da definire"]
     },
     {
         "name": "HelpIntent",
@@ -61,9 +61,9 @@
         "responses": ["Sarò lieto di assisterti ! Come posso aiutarti ?","Sono qui per aiutarti, dimmi come posso esserti utile :)"]
     },
     {
-        "name": "BadIntent",
-        "samples": ["Fai schifo","Vai a farti friggere","Sei totalmente inutile"],
-        "responses": ["Mi dispiace molto di non averti soddisfatto, come posso rimediare ?","Sono spiacente di sentirtelo dire, posso rimediare in qualche modo ?"]
+        "name": "Hobby",
+        "samples": ["Quali sono i tuoi hobby?","Cosa ti piace fare nel tempo libero","hai degli hobby?","Come passi le giornate?","Cosa fai per divertirti?","Quali sono i tuoi hobby","Cosa fai per divertirti?"],
+        "responses": ["Il mio hobby preferito è aiutarti, ed ogni tanto guardare la F1","Faccio molte cose, una tra tutte cercare il miglior modo per aiutarti"]
     },
     {
         "name": "GenderIntent",
