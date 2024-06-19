@@ -16,7 +16,7 @@
     },
     {
         "name": "Chi sei",
-        "samples": ["Chi sei tu", "Come ti chiami","Con chi sto parlando","chi sei","chi sei?","chi sei","Chi sei?","chi sei?","Chi sei","Chi sei tu?","chi sei?","chi sei tu?",Chi sei?",Chi sei tu",chi sei?","chi sei tu?"],
+        "samples": ["Chi sei tu", "Come ti chiami","Con chi sto parlando","chi sei","chi sei?","chi sei","Chi sei?","chi sei?","Chi sei","Chi sei tu?","chi sei?","chi sei tu?","Chi sei?","Chi sei tu",chi sei?","chi sei tu?"],
         "responses": ["Sono il tuo assistente, puoi chiedermi quello che vuoi e ti sarò di aiuto","Sono VisionAi sono qui per fornirti assistenza","Sono il tuo assistente personale"]
     },
     {
