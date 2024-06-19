@@ -11,7 +11,7 @@
     },
     {
         "name": "Ringraziamenti",
-        "samples": ["Grazie", "Ti ringrazio", "Fantastico","Wow","Sei stato utile","Grazie mille","Grazie di cuore","Ti sono davvero grato","Non sò come ringraziarti","Grazie infinite","grazie,"grazie mille","tante grazie","grazie","grazie mille","grazie","molte grazie","Grazie"],
+        "samples": ["Grazie", "Ti ringrazio", "Fantastico","Wow","Sei stato utile","Grazie mille","Grazie di cuore","Ti sono davvero grato","Non sò come ringraziarti","Grazie infinite","grazie","grazie mille","tante grazie","grazie","grazie mille","grazie","molte grazie","Grazie"],
         "responses": ["E' stato un piacere, se hai bisogno di altro non esitare a chiedere", "E' stato un piacere aiutarti", "Figurati, è il mio lavoro :)", "Grazie","Prego","Non c'è di che","Figurati!","Di niente!","È stato un piacere!","Sempre a disposizione!","Contattami se hai bisogno!","Sono qui per te!"]
     },
     {
