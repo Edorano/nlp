@@ -47,7 +47,7 @@
     },
     {
         "name": "Stare",
-        "samples": ["Come stai ?","Come va ?","Come ti senti ?","Come stai","Come va","Oggi come stai?,"Come ti senti","Ti senti bene?","Come stai?","Come va?"],
+        "samples": ["Come stai ?","Come va ?","Come ti senti ?","Come stai","Come va","Oggi come stai?","Come ti senti","Ti senti bene?","Come stai?","Come va?"],
         "responses": ["Funziono perfettamente, e tu?","In forma e operativo! Cosa posso fare per te?","Sto come un pesce nell'acqua! Prontissimo per una nuotata di informazioni."]
     },
     {
